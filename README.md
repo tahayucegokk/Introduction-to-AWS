@@ -60,10 +60,10 @@
         Digital Ocean
         Linode
     • Platform as a Service: 
-    Elastic Beanstalk (on AWS)
-    Heroku
-    Google App Engine (GCP)
-    Windows Azure (Microsoft)
+        Elastic Beanstalk (on AWS)
+        Heroku
+        Google App Engine (GCP)
+        Windows Azure (Microsoft)
     • Software as a Service:
         Many AWS services (ex: Rekognition for Machine Learning)
         Google Apps (Gmail...)
