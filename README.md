@@ -13,12 +13,12 @@
 ## Six Advantages of Cloud Computing
 
     • Trade capital expense (CAPEX) for operational expense (OPEX)
-        - Pay On-Demand: don’t own hardware
-        - Reduced Total Cost of Ownership (TCO) & Operational Expense (OPEX)
+         Pay On-Demand: don’t own hardware
+         Reduced Total Cost of Ownership (TCO) & Operational Expense (OPEX)
     • Benefit from massive economies of scale
-        - Prices are reduced as AWS is more efficient due to large scale
+         Prices are reduced as AWS is more efficient due to large scale
     • Stop guessing capacity
-        - Scale based on actual measured usage
+         Scale based on actual measured usage
     • Increase speed and agility
     • Stop spending money running and maintaining data centers
     • Go global in minutes: leverage the AWS global infrastructure
@@ -36,3 +36,14 @@
 ## Types of Cloud Computing
 
 <img src="https://github.com/tahayucegokk/Cloud-Computing-GCP/assets/77504139/14272d3b-2ff8-4d9e-98f0-aa4d8d1dc25d" alt="Cloud vs Data Center" style="width:600px;"/>
+
+    • Infrastructure as a Service (IaaS)
+         Provide building blocks for cloud IT
+        Provides networking, computers, data storage space
+        Highest level of flexibility
+        Easy parallel with traditional on-premises IT
+    • Platform as a Service (PaaS)
+        Removes the need for your organization to manage the underlying infrastructure
+        Focus on the deployment and management of your applications
+    • Software as a Service (SaaS)
+        Completed product that is run and managed by the service provider
