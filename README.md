@@ -22,3 +22,13 @@
     • Increase speed and agility
     • Stop spending money running and maintaining data centers
     • Go global in minutes: leverage the AWS global infrastructure
+
+## Problems solved by the Cloud
+
+    • Flexibility: change resource types when needed
+    • Cost-Effectiveness: pay as you go, for what you use
+    • Scalability: accommodate larger loads by making hardware stronger or
+    adding additional nodes
+    • Elasticity: ability to scale out and scale-in when needed
+    • High-availability and fault-tolerance: build across data centers
+    • Agility: rapidly develop, test and launch software applications
