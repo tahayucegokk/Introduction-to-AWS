@@ -1,6 +1,4 @@
-## Introduction-to-AWS (ENG)
-
-## Notes:
+## Introduction-to-AWS
 
 # The Five Characteristics of Cloud Computing
     • On-demand self service: Users can provision resources and use them without human interaction from the service
