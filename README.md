@@ -35,4 +35,4 @@
 
 ## Types of Cloud Computing
 
-    <img src="https://github.com/tahayucegokk/Cloud-Computing-GCP/assets/77504139/14272d3b-2ff8-4d9e-98f0-aa4d8d1dc25d" alt="Cloud vs Data Center" style="width:600px;"/>
+<img src="https://github.com/tahayucegokk/Cloud-Computing-GCP/assets/77504139/14272d3b-2ff8-4d9e-98f0-aa4d8d1dc25d" alt="Cloud vs Data Center" style="width:600px;"/>
