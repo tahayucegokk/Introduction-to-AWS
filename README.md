@@ -32,3 +32,7 @@
     • Elasticity: ability to scale out and scale-in when needed
     • High-availability and fault-tolerance: build across data centers
     • Agility: rapidly develop, test and launch software applications
+
+## Types of Cloud Computing
+
+    <img src="https://github.com/tahayucegokk/Cloud-Computing-GCP/assets/77504139/14272d3b-2ff8-4d9e-98f0-aa4d8d1dc25d" alt="Cloud vs Data Center" style="width:600px;"/>
