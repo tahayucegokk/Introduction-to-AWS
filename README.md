@@ -3,8 +3,7 @@
 ## Notes:
 
 # The Five Characteristics of Cloud Computing
-• On-demand self service:
-• Users can provision resources and use them without human interaction from the service
+''    • On-demand self service: Users can provision resources and use them without human interaction from the service
 provider
 • Broad network access:
 • Resources available over the network, and can be accessed by diverse client platforms
@@ -15,4 +14,4 @@ provider
 • Automatically and quickly acquire and dispose resources when needed
 • Quickly and easily scale based on demand
 • Measured service:
-• Usage is measured, users pay correctly for what they have used
+• Usage is measured, users pay correctly for what they have used    ''
