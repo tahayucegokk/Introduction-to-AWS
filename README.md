@@ -49,4 +49,14 @@
         Completed product that is run and managed by the service provider
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ol7OnjXd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/flzshxgpfmu59dhor6mt.png" alt="Cloud vs Data Center" style="width:600px;"/>
+
+## Example of Cloud Computing Types
+
+    • Infrastructure as a Service: 
+        Amazon EC2 (on AWS)    
+        GCP  
+        Azure
+        Rackspace
+        Digital Ocean
+        Linode
         
